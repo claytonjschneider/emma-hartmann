@@ -15,7 +15,7 @@ class App extends Component {
           <h2>Hi Emma :-) Welcome to your website!</h2>
         </div>
         <ReactPlayer
-          url="https://youtu.be/HybvYfr-z-A"
+          url="https://youtu.be/phjiPCtcq34"
         />
       </div>
     );
